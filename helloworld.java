@@ -1,5 +1,6 @@
 public class hellowrold{
 public static void main(String args[]){
-system.out.println("ÕâÊÇÎÒÌá½»µÄ²Ö¿âÈöµ©·¨µÄ·½Ê½");
+system.out.println("è¿™æ˜¯æˆ‘æäº¤çš„ä»“åº“æ’’æ—¦æ³•çš„æ–¹å¼");
+system.out.println("ç›´æ¥åœ¨æœåŠ¡å™¨ä¸­ä¿®æ”¹ä»£ç ");
 }
 }
